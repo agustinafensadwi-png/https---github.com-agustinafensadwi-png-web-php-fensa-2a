@@ -1,7 +1,7 @@
 <?php
  
-for($i = 0; $i < 20; $i++){
-    echo "<h3>Saya akan mengumpulkan tugas tepat waktu dan tidak terlambat lagi</h3>";
+for($i = 1; $i < 61; $i++){
+    echo "<h3>Ini Angka ke-$i</h3>";
 }
  
 ?>
