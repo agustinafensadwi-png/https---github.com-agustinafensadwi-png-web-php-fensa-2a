@@ -12,5 +12,13 @@ print "Belajar mecetak teks di PHP!<br>";
 //menggunakan echo
 $txt = "rudyekoprasetya.wordpress.com";
 echo "<br>Aku belajar pemrograman PHP di " . $txt . "<br>";
+
+//menggunakan echo
+$txt = "rudyekoprasetya.wordpress.com";
+echo "<br>Aku belajar pemrograman PHP di " . $txt . "<br>";
+ 
+//menggunakan printf
+$txt = "rudyekoprasetya.wordpress.com";
+printf("Aku belajar pemrograman PHP di %s<br>", $txt);
  
 ?>
